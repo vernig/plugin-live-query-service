@@ -1,0 +1,8 @@
+{
+  "extends": ["twilio-react", "twilio-ts"],
+  "rules": {
+    "react/display-name": "off",
+    "import/no-extraneous-dependencies": "off",
+    "no-console": "warn"
+  }
+}
