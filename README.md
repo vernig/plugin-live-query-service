@@ -2,6 +2,9 @@
 
 This plugin add tasks / workers statistic to any Flex view. 
 
+![image](https://user-images.githubusercontent.com/54728384/128317707-42859e98-aa91-4559-91a1-5f70de795f3b.png)
+
+
 ## Setup
 
 Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). Twilio CLI supports Node >= 10.12 (and recommend the _even_ versions of Node).
@@ -23,3 +26,9 @@ $ twilio profiles:use
 $ twilio flex:plugins:deploy 
 ```
 6. Follow the instructions provided by the `deploy` command to create a release
+
+## Demo
+
+In the demo below you can see how the Tasks status and the available agents counters change during the lifecycle of a task
+
+https://user-images.githubusercontent.com/54728384/128318668-8286fc71-f718-4df3-8178-f5c42aebd7dd.mp4
