@@ -1,6 +1,6 @@
 # Live Query Service Plugin (a.k.a. Mini Wallboard)
 
-This plugin add tasks / workers statistic to any Flex view. 
+This plugin add tasks / workers statistic to any Flex view. This plugin uses the [Flex's `insightsClient`](https://www.twilio.com/docs/flex/developer/ui/manager#insightsclient), the [`LiveQuery`](https://media.twiliocdn.com/sdk/js/sync/releases/0.12.2/docs/LiveQuery.html) and [`InstanQuery`](https://media.twiliocdn.com/sdk/js/sync/releases/0.12.2/docs/InstantQuery.html) classes and the [Live Query Language](https://www.twilio.com/docs/sync/live-query) to fetch Tasks / Workers statistic. That means that no backend deployment is needed to make this plugin works.  
 
 ![image](https://user-images.githubusercontent.com/54728384/128317707-42859e98-aa91-4559-91a1-5f70de795f3b.png)
 
